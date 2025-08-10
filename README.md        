@@ -1,0 +1,12 @@
+# Smart Flashcards Backend
+
+A backend service that:
+- Adds flashcards with automatic subject detection.
+- Retrieves mixed-subject flashcards for a student.
+
+## Installation
+
+```bash
+git clone https://github.com/<your-username>/smart-flashcards.git
+cd smart-flashcards
+pip install -r requirements.txt
